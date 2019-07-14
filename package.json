@@ -16,7 +16,9 @@
         "gulp-plumber": "*",
         "gulp-rename": "*",
         "gulp-sass": "*",
-        "gulp-uglify": "*"
+        "gulp-uglify": "*",
+        "lodash.template": ">=4.5.0",
+        "clean-css": ">=4.1.11"
     },
     "scripts": {
         "build": "npm install && gulp"
