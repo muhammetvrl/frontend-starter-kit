@@ -1,0 +1,24 @@
+{
+    "name": "frontendstarter",
+    "version": "1.0.0",
+    "description": "Description",
+    "author": "VAROL",
+    "devDependencies": {
+        "browser-sync": "*",
+        "gulp": "^3.9.1",
+        "gulp-autoprefixer": "*",
+        "gulp-cache": "*",
+        "gulp-concat": "*",
+        "gulp-file-include": "*",
+        "gulp-html": "^0.7.0",
+        "gulp-imagemin": "*",
+        "gulp-minify-css": "*",
+        "gulp-plumber": "*",
+        "gulp-rename": "*",
+        "gulp-sass": "*",
+        "gulp-uglify": "*"
+    },
+    "scripts": {
+        "build": "npm install && gulp"
+    }
+}

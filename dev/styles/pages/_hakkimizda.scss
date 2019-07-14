@@ -1,0 +1,6 @@
+h1 {
+    color: red;
+    @include xs {
+        color: blue;
+    }
+}
