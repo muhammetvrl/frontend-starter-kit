@@ -20,5 +20,8 @@
     },
     "scripts": {
         "build": "npm install && gulp"
+    },
+    "dependencies": {
+        "lodash-template": "^1.0.0"
     }
 }
